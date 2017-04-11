@@ -11,5 +11,5 @@ sh -c "$(curl -fsSL https://raw.githubusercontent.com/dacapo1142/PTTfeeds/master
 ## Usage
 
 ```console
-$ cd PTTfeeds && python server.py
+cd PTTfeeds && python server.py
 ```
