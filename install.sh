@@ -1,5 +1,3 @@
-#!/usr/bin/env bash
-
 env git clone --depth=1 git@github.com:dacapo1142/PTTfeeds.git || {
     printf "\e[31mError: git clone of PTTfeeds repo failed\n\e[0m"
     exit 1
