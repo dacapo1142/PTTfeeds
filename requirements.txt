@@ -1,0 +1,5 @@
+html2text
+lxml
+requests
+termcolor
+yagmail
